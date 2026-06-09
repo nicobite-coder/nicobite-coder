@@ -1,4 +1,4 @@
-[<h2 align="left">My name is Nico, I'm 18 years old and I live in Brazil</h2>
+<h2 align="left">My name is Nico, I'm 18 years old and I live in Brazil</h2>
 
 ###
 
