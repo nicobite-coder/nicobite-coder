@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">🧠 Repository dedicated to my programming studies.<br><br>🐍 Currently focused on learning Python.<br><br>📂 Organized by folders to track my daily progress.<br><br>🚀 From the basics to my first practical projects!</p>
+<p align="left">🧠 My name is Nico, I'm 18 years old and I live in Brazil</p>
 
 ###
 
